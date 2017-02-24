@@ -17,4 +17,14 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:textSize="18sp" />
+
+    <TextView
+        android:text="I'm a Git Update!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="30sp"
+        android:layout_marginBottom="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
